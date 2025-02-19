@@ -1,8 +1,5 @@
 # Predicting-Hazardous-NEOs-Nearest-Earth-Objects-
 ###Training a model to accurate predicting NEOs is hazardous or not.
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
 
 ### Project Overview
 ---
@@ -26,14 +23,6 @@ EDA involved exploring the data to answer key questions, such as:
 
 - What is the Distribution of Hazardous vs Non-hazardous NEOs?
 
-### Data Analysis
-
-Include some interesting code/features worked with
-
-```sql
-SELECT * FROM table1
-WHERE cond = 2;
-```
 ### Model Training and Evaluation
 ## Key Findings
 1.Imbalance Handling: SMOTE improved recall for the minority class (hazardous objects).
