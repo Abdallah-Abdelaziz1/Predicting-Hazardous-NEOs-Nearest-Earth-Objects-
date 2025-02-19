@@ -26,5 +26,7 @@ EDA involved exploring the data to answer key questions, such as:
 ### Model Training and Evaluation
 ## Key Findings
 1.Imbalance Handling: SMOTE improved recall for the minority class (hazardous objects).
+
 2.Top Features: absolute_magnitude and miss_distance were most predictive.
+
 3.Best Model: Random Forest achieved F1-score: 0.98 and AUC-ROC: 0.99.
