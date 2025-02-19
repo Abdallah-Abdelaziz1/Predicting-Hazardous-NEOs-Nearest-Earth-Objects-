@@ -1,5 +1,5 @@
 # Predicting-Hazardous-NEOs-Nearest-Earth-Objects-
-###Training a model to accurate predicting NEOs is hazardous or not.
+Training a model to accurate predicting NEOs is hazardous or not.
 
 ### Project Overview
 ---
